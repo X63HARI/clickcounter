@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  height: 100vh;
+}
+h1 {
+  font-size: 48px;
+  margin-bottom: 5px;
+}
+.btn {
+  background-color: #007bff;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+  border: 0px;
+  padding: 18px 30px;
+}
+p {
+  font-size: 16px;
+}
